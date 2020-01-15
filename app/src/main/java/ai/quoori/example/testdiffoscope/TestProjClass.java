@@ -11,7 +11,7 @@ public class TestProjClass
 {
     public static String getChangeText()
     {
-        return "From Project";
+        return "From Project x";
     }
 
     public static String getAssetStringX(Context context)
