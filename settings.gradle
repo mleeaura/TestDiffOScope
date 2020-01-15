@@ -1,0 +1,4 @@
+include ':app'
+
+include ':testoscopedepmodule'
+project(':testoscopedepmodule').projectDir = new File(settingsDir, '../testoscopedepmodule')
